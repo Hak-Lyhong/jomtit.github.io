@@ -1,0 +1,12 @@
+.selector::selection {
+   background-color: rgb(172, 99, 241);
+   color: rgb(217, 255, 0);
+   cursor:crosshair;
+   border-radius: 3px;
+}
+* {
+   background-color: black;
+}
+.selector {
+   color:rgb(255, 255, 255);
+}
